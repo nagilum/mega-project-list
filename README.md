@@ -272,7 +272,7 @@ If I solve a project as a web utility, then it's most likely gonna be written in
 
 **Screen Capture Program** - Make a utility that will simply capture a frame from your web cam. For added complexity see if you can also build in emailing functionality.
 
-**Image Browser** - This application is used to view various image files on your computer from PNG, GIF, JPG to BMP, TIFF etc.
+[**Image Browser**](https://github.com/nagilum/Peek) (C#) - This application is used to view various image files on your computer from PNG, GIF, JPG to BMP, TIFF etc.
 
 **Traffic Light Application** - See if you can make your own street light application and then put it into an intersection scenario. Don’t let any cars run the lights and crash into one another!
 
